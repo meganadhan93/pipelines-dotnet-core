@@ -1,12 +1,3 @@
-git remote add origin https://meganadhan@dev.azure.com/meganadhan/Azuretest/_git/Azuretest
-git push -u origin --all
-
-
-
-
-
-
-
 
 # Starter pipeline
 # Start with a minimal pipeline that you can customize to build and deploy your code.
